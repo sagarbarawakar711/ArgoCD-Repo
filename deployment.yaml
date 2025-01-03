@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 461655781674.dkr.ecr.ca-central-1.amazonaws.com/my-docker-repo:20250103101525
+        image: 461655781674.dkr.ecr.ca-central-1.amazonaws.com/my-docker-repo:20250103114210
         ports:
         - containerPort: 80
