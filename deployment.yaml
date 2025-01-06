@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 461655781674.dkr.ecr.ca-central-1.amazonaws.com/argocd-repo:9ac561c9b1e5f4b
+        image: 461655781674.dkr.ecr.ca-central-1.amazonaws.com/argocd-repo:3c1387aecddf7ba
         ports:
         - containerPort: 80
